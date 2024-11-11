@@ -1,5 +1,5 @@
 # Cryptography---19CS415-classical-techqniques
-# Ex-1(c) Hill Cipher
+# Ex-3 Hill Cipher
 Hill Cipher using with different key values
 
 ## AIM:
